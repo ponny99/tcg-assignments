@@ -1,0 +1,19 @@
+h1{
+ color: #7ebdb4;
+ text-align: center; 
+ font-size: 80px;     
+}
+p{
+    text-align: center;
+
+}
+body{
+    background-color: #162447;
+}
+#image{
+    height: 250px;
+}
+.main{
+    display: grid ;
+    
+}
